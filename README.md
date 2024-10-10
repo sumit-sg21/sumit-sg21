@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Alt Text](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 ### Hi there! I'm **Sumit Gautam** 👋
 
 I'm a **Full Stack Web Developer** passionate about creating dynamic, responsive, and user-friendly web applications. With expertise in the **MERN stack**, I specialize in building scalable applications that provide seamless user experiences. 
@@ -55,6 +57,12 @@ I enjoy working on projects that solve real-world problems and continuously lear
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
 #### My GitHub Stats:
