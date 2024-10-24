@@ -15,7 +15,7 @@ I enjoy working on projects that solve real-world problems and continuously lear
 
 📄 **Resume**: [View My Resume](https://drive.google.com/file/d/1ZlgOPWMq3i1UTmU5XyBPkGTbjOyEndGJ/view?usp=sharing) 
 
-🌐 **Portfolio**: [Visit My Portfolio](https://portfolio-enr1.vercel.app/)
+🌐 **Portfolio**: [Visit My Portfolio](https://portfolio-enr1-ezezyc2vf-sumit-gautams-projects.vercel.app/)
 
 #### Connect with me:
 
